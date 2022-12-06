@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/saarang1995/shortly_server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^3.3.0"
   }
 }
